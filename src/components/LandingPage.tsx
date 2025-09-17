@@ -69,9 +69,9 @@ export default function LandingPage() {
             </motion.p>
 
             <div className="mt-8 flex gap-4">
-              <Link to="/select-role">
+              <Link to="/farmer-dashboard">
                 <Button size="lg" className="shadow-medium hover:shadow-large transition-all">
-                  Get Started
+                  Farmer Dashboard
                   <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
               </Link>
